@@ -1,0 +1,25 @@
+Code Profiling:
+On se met sur tests
+On compile hash_unit en .o: gcc -g -I../hash/ -O0 -c -pg -std=c99 *.c -o unit.o 
+Puis on compile le hash.c en .o pour le rapatrier ici avant l'edition de leins:
+gcc -g -O0 -pg -I../hash ../hash/hash.c -o hash_lib.o
+=>Vient l'etape d'edition de liens:
+gcc -pg -o main_unit_test unit.o hash_lib.o
+./main_unit_test
+gprof main_unit_test ./gmon.out
+=>affichage du profile complet(enfin presque..) du code.
+Sur cmake;
+on reprend la meme demarche avec:
+set tout avant via le cmake principale:
+set(CMAKE_C_FLAGS_GPROF "-pg")
+M=essage (STATUS "build option is set to "{CMAKE_BUILD_TYPE}")
+et dans le cmake du repertoir profiling dans le repository qui contient des branches on ecrit:
+if(CMAKE_BUILD_TYPE STREQUAL Gprof)
+	message("add gprof custom command)
+	add_custom_target(gprof ../tests/hash_unit ../tests/gmon.out
+		COMMAND cp ../tests/hash_unit ./
+		COMMAND cp ../tests/gmon.out ./
+		COMMAND gprof hash_unit gmon.out
+		WORKING_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR})
+endif()
+FIN_PG106.
