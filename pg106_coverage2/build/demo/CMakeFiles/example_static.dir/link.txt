@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -O0 -fprofile-arcs -ftest-coverage    CMakeFiles/example_static.dir/example.c.o  -o example_static -rdynamic ../hash/libhash_static.a 

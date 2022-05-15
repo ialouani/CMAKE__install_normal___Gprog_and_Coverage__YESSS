@@ -1,0 +1,220 @@
+Start testing: May 15 01:58 +01
+----------------------------------------------------------
+1/1 Testing: unit
+1/1 Test: unit
+Command: "/home/ubuntu20/pg106_coverage/build_prof2/tests/hash_unit"
+Directory: /home/ubuntu20/pg106_coverage/build_prof2/tests
+"unit" start time: May 15 01:58 +01
+Output:
+----------------------------------------------------------
+DEBUG: hash value is 0 
+DEBUG: hash value is 0 
+DEBUG: hash value is 1 
+DEBUG: hash value is 1 
+DEBUG: hash value is 2 
+DEBUG: hash value is 2 
+DEBUG: hash value is 3 
+DEBUG: hash value is 3 
+DEBUG: hash value is 4 
+DEBUG: hash value is 4 
+DEBUG: hash value is 5 
+DEBUG: hash value is 5 
+DEBUG: hash value is 6 
+DEBUG: hash value is 6 
+DEBUG: hash value is 7 
+DEBUG: hash value is 7 
+DEBUG: hash value is 8 
+DEBUG: hash value is 8 
+DEBUG: hash value is 9 
+DEBUG: hash value is 9 
+DEBUG: hash value is 10 
+DEBUG: hash value is 10 
+DEBUG: hash value is 11 
+DEBUG: hash value is 11 
+DEBUG: hash value is 12 
+DEBUG: hash value is 12 
+DEBUG: hash value is 13 
+DEBUG: hash value is 13 
+DEBUG: hash value is 14 
+DEBUG: hash value is 14 
+DEBUG: hash value is 15 
+DEBUG: hash value is 15 
+DEBUG: hash value is 16 
+DEBUG: hash value is 16 
+DEBUG: hash value is 17 
+DEBUG: hash value is 17 
+DEBUG: hash value is 18 
+DEBUG: hash value is 18 
+DEBUG: hash value is 19 
+DEBUG: hash value is 19 
+DEBUG: hash value is 20 
+DEBUG: hash value is 20 
+DEBUG: hash value is 21 
+DEBUG: hash value is 21 
+DEBUG: hash value is 22 
+DEBUG: hash value is 22 
+DEBUG: hash value is 23 
+DEBUG: hash value is 23 
+DEBUG: hash value is 24 
+DEBUG: hash value is 24 
+DEBUG: hash value is 25 
+DEBUG: hash value is 25 
+DEBUG: hash value is 26 
+DEBUG: hash value is 26 
+DEBUG: hash value is 27 
+DEBUG: hash value is 27 
+DEBUG: hash value is 28 
+DEBUG: hash value is 28 
+DEBUG: hash value is 29 
+DEBUG: hash value is 29 
+DEBUG: hash value is 30 
+DEBUG: hash value is 30 
+DEBUG: hash value is 31 
+DEBUG: hash value is 31 
+DEBUG: hash value is 32 
+DEBUG: hash value is 32 
+DEBUG: hash value is 33 
+DEBUG: hash value is 33 
+DEBUG: hash value is 34 
+DEBUG: hash value is 34 
+DEBUG: hash value is 35 
+DEBUG: hash value is 35 
+DEBUG: hash value is 36 
+DEBUG: hash value is 36 
+DEBUG: hash value is 37 
+DEBUG: hash value is 37 
+DEBUG: hash value is 38 
+DEBUG: hash value is 38 
+DEBUG: hash value is 39 
+DEBUG: hash value is 39 
+DEBUG: hash value is 40 
+DEBUG: hash value is 40 
+DEBUG: hash value is 41 
+DEBUG: hash value is 41 
+DEBUG: hash value is 42 
+DEBUG: hash value is 42 
+DEBUG: hash value is 43 
+DEBUG: hash value is 43 
+DEBUG: hash value is 44 
+DEBUG: hash value is 44 
+DEBUG: hash value is 45 
+DEBUG: hash value is 45 
+DEBUG: hash value is 46 
+DEBUG: hash value is 46 
+DEBUG: hash value is 47 
+DEBUG: hash value is 47 
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0---0
+DEBUG: hash value is 48 
+DEBUG: hash value is 48 
+DEBUG: hash value is 49 
+DEBUG: hash value is 49 
+DEBUG: hash value is 0 
+DEBUG: hash value is 1 
+DEBUG: hash value is 2 
+DEBUG: hash value is 3 
+DEBUG: hash value is 4 
+DEBUG: hash value is 5 
+DEBUG: hash value is 6 
+DEBUG: hash value is 7 
+DEBUG: hash value is 8 
+DEBUG: hash value is 9 
+DEBUG: hash value is 10 
+DEBUG: hash value is 11 
+DEBUG: hash value is 12 
+DEBUG: hash value is 13 
+DEBUG: hash value is 14 
+DEBUG: hash value is 15 
+DEBUG: hash value is 16 
+DEBUG: hash value is 17 
+DEBUG: hash value is 18 
+DEBUG: hash value is 19 
+DEBUG: hash value is 20 
+DEBUG: hash value is 21 
+DEBUG: hash value is 22 
+DEBUG: hash value is 23 
+DEBUG: hash value is 24 
+DEBUG: hash value is 25 
+DEBUG: hash value is 26 
+DEBUG: hash value is 27 
+DEBUG: hash value is 28 
+DEBUG: hash value is 29 
+DEBUG: hash value is 30 
+DEBUG: hash value is 31 
+DEBUG: hash value is 32 
+DEBUG: hash value is 33 
+DEBUG: hash value is 34 
+DEBUG: hash value is 35 
+DEBUG: hash value is 36 
+DEBUG: hash value is 37 
+DEBUG: hash value is 38 
+DEBUG: hash value is 39 
+DEBUG: hash value is 40 
+DEBUG: hash value is 41 
+DEBUG: hash value is 42 
+DEBUG: hash value is 43 
+DEBUG: hash value is 44 
+DEBUG: hash value is 45 
+DEBUG: hash value is 46 
+DEBUG: hash value is 47 
+DEBUG: hash value is 48 
+DEBUG: hash value is 49 
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"unit" end time: May 15 01:58 +01
+"unit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 15 01:58 +01

@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 2.8.11)
+project(HASH)
+
+set(CMAKE_C_FLAGS_GPROF "-pg")
+message(STATUS "build option is set to ${CMAKE_BUILD_TYPE}")
+
+
+enable_testing()
+
+add_subdirectory(hash)
+add_subdirectory(demo)
+add_subdirectory(tests)
+add_subdirectory(profiling)
+
+

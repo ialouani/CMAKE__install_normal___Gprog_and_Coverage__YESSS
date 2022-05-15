@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../hash/hash.h
+
+/home/ubuntu20/pg106_coverage/demo/example.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+hash.h
+/home/ubuntu20/pg106_coverage/demo/hash.h
+
